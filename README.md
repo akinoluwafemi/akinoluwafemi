@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cloudson/)]
-
-
- [<img src="https://img.shields.io/badge/gmail-NICKDACONTA%09-blueviolet?&style=flat&logo=gmail&logoColor=white" />]
